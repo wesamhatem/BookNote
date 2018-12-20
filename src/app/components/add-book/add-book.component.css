@@ -1,0 +1,19 @@
+.add-book-form{
+margin-left: 300px;
+
+margin-right: 300px;
+background-color: rgb(245, 245, 245);
+margin-top:20px; 
+overflow: hidden;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .full-width {
+      color: black;
+      margin-left: 10px;
+    width: 100%;
+  }

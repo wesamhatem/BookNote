@@ -1,0 +1,13 @@
+.full-width {
+    color: black;
+    margin-left: 10px;
+  width: 100%;
+}
+.edit-book-form{
+    margin-left: 300px;
+    
+    margin-right: 300px;
+    background-color: rgb(245, 245, 245);
+    margin-top:20px; 
+    overflow: hidden;
+    }

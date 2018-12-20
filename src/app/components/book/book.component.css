@@ -1,0 +1,19 @@
+.details-book{
+    margin-top:30px;
+    margin-left:260px;  
+    margin-right:260px;  
+    /* text-align: center; */
+}
+.mat-card-title{
+    text-align: left;
+}
+.left {
+    float: left;
+    width: 50%;
+    overflow: hidden;
+    border: none;
+  }
+  
+.right {
+    overflow: hidden;
+  }
